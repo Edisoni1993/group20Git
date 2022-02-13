@@ -4,4 +4,4 @@ blla blla
 
 ....
 
-We are creating a conflict! Let's see how we deal with it!
+We are creating a conflict! Let's see how we deal with it!  Second commit
